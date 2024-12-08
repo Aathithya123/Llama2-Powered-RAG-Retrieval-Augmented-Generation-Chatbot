@@ -28,3 +28,10 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 4. **Generate Detailed Responses**:
    - Retrieved context is passed as input to LLaMA 2 (via the Ollama API), which generates detailed answers.
    - The system mimics conversational AI for intelligent, content-rich responses.
+
+## Installation
+
+1. **Create environment**:
+   ```
+   python -m venv venv
+   ```
