@@ -29,7 +29,7 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
    - Retrieved context is passed as input to LLaMA 2 (via the Ollama API), which generates detailed answers.
    - The system mimics conversational AI for intelligent, content-rich responses.
 
-## Installation
+## Installation and Execution
 
 1. **Create environment**:
 
@@ -47,4 +47,13 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 
    ```
    pip install PyMuPDF matplotlib numpy pandas Requests sentence_transformers spacy tqdm transformers accelerate bitsandbytes jupyter wheel flash-attn torch
+    ```
+4. **Open Jupyter notebook**:
+
    ```
+   jupyter notebook
+   ```
+
+Now download the .ipynb file attached here and locate the downloaded file in the jupyter notebook. Now just run all the cells in there to use the model.
+
+THANK YOU
