@@ -67,6 +67,6 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
    jupyter notebook
    ```
 
-Now download the .ipynb file attached here and locate the downloaded file in the jupyter notebook. Now just run all the cells in there to use the model.
+Now clone this repo in your system and locate the .ipynb file in the jupyter notebook. Now just run all the cells in there to use the model.
 
 THANK YOU
