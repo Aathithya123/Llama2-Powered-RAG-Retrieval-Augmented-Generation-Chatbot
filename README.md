@@ -69,4 +69,8 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 
 Now clone this repo in your system and locate the .ipynb file in the jupyter notebook. Now just run all the cells in there to use the model.
 
+```
+git clone https://github.com/Aathithya123/Llama2-Powered-RAG-Retrieval-Augmented-Generation-Chatbot
+```
+
 THANK YOU
