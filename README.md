@@ -32,6 +32,19 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 ## Installation
 
 1. **Create environment**:
+
    ```
    python -m venv venv
+   ```
+
+2. **Activate environment (only for linux based operating systems)**:
+
+   ```
+   source venv/bin/activate
+   ```
+
+3. **Install requirements**:
+
+   ```
+   pip install PyMuPDF matplotlib numpy pandas Requests sentence_transformers spacy tqdm transformers accelerate bitsandbytes jupyter wheel flash-attn torch
    ```
