@@ -9,7 +9,6 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 - **Semantic Embedding**: Uses `sentence-transformers` to create embeddings of text chunks for semantic similarity-based retrieval.
 - **Query-based Retrieval**: Retrieves the most relevant chunks of text from the dataset for a given query.
 - **LLaMA 2 Integration**: Combines retrieved context with LLaMA 2 to generate detailed, human-like responses to user queries.
-- **Interactive Query Examples**: Examples include questions like *"What are fast-releasing carbohydrates?"* and *"Foods high in fiber?"* with results ranked by relevance.
 
 ## Project Workflow
 
